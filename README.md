@@ -23,6 +23,7 @@ Desarrolla una aplicación Android que incluya las siguientes funcionalidades b�
 
 Un saludo personalizado que cambia según la hora del día (Buenos días, Buenas tardes, Buenas noches).
 Un botón que lleve a la pantalla de la actividad principal.
+
 2.      Actividad Principal:
 
 Un campo de texto para ingresar el nombre del usuario.
